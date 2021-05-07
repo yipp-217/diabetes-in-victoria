@@ -1,3 +1,7 @@
+# `visualisation-template.py`
+"""the script is be used as a template of visualisation"""
+# written by Zimo Peng for COMP20008 Assignment 2 in 2021
+
 import pandas as pd
 import argparse
 import matplotlib.pyplot as plt
